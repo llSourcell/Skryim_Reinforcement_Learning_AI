@@ -80,6 +80,16 @@ By **Hour 200**, all three agents independently converged on the exact same stra
 - See `evolution_report.md`, `training_report.md`, and `training_analysis_gen*.md` for notes and timelines.
 - Checkpoints and TensorBoard logs are ignored by default (.gitignore) to keep the repo lean.
 
+## 📦 Models (Downloads)
+- Pretrained checkpoints will be available on the GitHub Releases page:
+  - https://github.com/llSourcell/Skryim_Reinforcement_Learning_AI/releases/latest
+  - Assets include interrupted/final checkpoints for multiple training runs.
+  
+- Direct downloads (temporarily hosted in this repo root for convenience):
+  - Warrior/Warlord (Interrupted): https://github.com/llSourcell/Skryim_Reinforcement_Learning_AI/blob/main/skyrim_warlord_model_interrupted.zip
+  - AGI Survival (Interrupted): https://github.com/llSourcell/Skryim_Reinforcement_Learning_AI/blob/main/skyrim_agi_model_interrupted.zip
+  - PPO (Interrupted): https://github.com/llSourcell/Skryim_Reinforcement_Learning_AI/blob/main/skyrim_ppo_model_interrupted.zip
+
 ## ⚠️ Disclaimer
 This code takes control of your mouse and keyboard. **Do not run this while trying to use your computer.** It includes a "Panic Reflex" that will spam ESC/TAB if it gets stuck in a menu.
 
