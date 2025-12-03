@@ -4,7 +4,7 @@
 
 This repository contains the code and training scripts used in the experiment to determine if the "Stealth Archer" build is mathematically optimal. See `evolution_report.md` for a detailed log of emergent behaviors.
 
-![YouTube Video](https://img.youtube.com/vi/18L5HOYTQAw/0.jpg)](https://www.youtube.com/watch?v=18L5HOYTQAw)
+![YouTube Video](https://www.youtube.com/watch?v=18L5HOYTQAw)
 
 ## 🧪 The Experiment
 
