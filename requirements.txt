@@ -1,0 +1,9 @@
+gymnasium
+stable-baselines3
+mss
+pynput
+opencv-python
+tensorboard
+shimmy
+numpy
+manim
